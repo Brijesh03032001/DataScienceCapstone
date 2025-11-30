@@ -1,3 +1,15 @@
+"""
+SpaceX Launch Records Dashboard
+Author: Brijesh Kumar
+Project: SpaceX Landing Prediction Analysis
+Date: November 2025
+
+This interactive dashboard provides real-time analysis of SpaceX launch data,
+allowing users to explore success rates by launch site and payload characteristics.
+Developed as part of my data science portfolio to demonstrate proficiency in
+interactive visualization and web application development.
+"""
+
 # Import required libraries
 import pandas as pd
 import dash
